@@ -1,5 +1,7 @@
 # 📚 Siglas em SQL: DDL, DML, DQL, DTL e DCL
 
+[⬅️ Voltar ao Sumário](../README.md#-sumário)
+
 No mundo dos bancos de dados relacionais, o **SQL (Structured Query Language)** é dividido em subconjuntos de comandos, cada um com um propósito específico.  
 Esses subconjuntos são conhecidos pelas siglas: **DDL, DML, DQL, DTL e DCL**.
 
