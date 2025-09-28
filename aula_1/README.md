@@ -1,5 +1,7 @@
 # Aula 01 - Visão Geral e Preparação do ambiente SQL
 
+[⬅️ Voltar ao Sumário](../README.md#-sumário)
+
 ## Introdução
 
 Bem-vindos ao nosso workshop sobre SQL e PostgreSQL. Hoje, vamos mergulhar nos conceitos básicos de bancos de dados e como o PostgreSQL pode ser utilizado para gerenciar dados de forma eficiente. Nosso objetivo é garantir que todos vocês tenham uma boa base para explorar mais sobre SQL e operações de banco de dados nos próximos dias.
